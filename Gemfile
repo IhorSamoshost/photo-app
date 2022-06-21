@@ -42,7 +42,6 @@ group :development do
 end
 
 group :production do
-  # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'rails_12factor'
 end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
